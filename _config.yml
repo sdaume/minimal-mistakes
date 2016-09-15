@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Incidental ecologists"
+title                    : "Incidental Ecologists"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "stefandaume"
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ author:
   name             : "Your Name"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Stockholm"
   email            :
   uri              :
   bitbucket        :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "sdaume"
   google_plus      :
   keybase          :
   instagram        :
